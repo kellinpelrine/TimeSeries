@@ -4,6 +4,8 @@ Various projects related to time series.
 
 Author: Kellin Pelrine
 
+<br/><br/>
+
 SVAR: structural VAR model examining whether changes in monetary policy have real effects. Loads data from SVAR_Data.csv. Estimates impulse response functions from a monetary policy shock, along with related techniques such as a bootstrap confidence interval. The below figure is one example of output, illustrating the change in GDP (over 50 periods) from a shock to monetary policy.
 
 ![image](https://github.com/kellinpelrine/TimeSeries/blob/master/IRF%20with%20Bootstrap%20CI.jpg)
